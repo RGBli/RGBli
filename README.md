@@ -3,9 +3,13 @@
 > Do something challenging
 
 🔭 I’m a CS master student in HUST
+
 🍺 I’m about to work in ByteDance as a backend engineer in 2022
+
 ⚡ Languige used: Java, Golang
+
 😄 Interest: photographing, long board and games
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RGBli&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
