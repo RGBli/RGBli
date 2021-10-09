@@ -7,7 +7,7 @@
 
 🍺 I’m about to work in ByteDance as a backend engineer in 2022
 
-⚡ Languige used: Java, Golang
+⚡ Languige used: Java, Golang, Python
 
 😄 Interest: photographing, long board and games
 
