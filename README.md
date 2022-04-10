@@ -5,9 +5,9 @@
 
 🔭 I’m a CS master student in HUST
 
-🍺 I’m about to work in ByteDance as a backend engineer in 2022
+🍺 I’m about to work in TikTok as a backend engineer in 2022
 
-⚡ Languige used: Java, Golang, Python
+⚡ Language used: Java, Golang, Python
 
 😄 Interest: photographing, long board and games
 
