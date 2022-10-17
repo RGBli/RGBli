@@ -3,11 +3,9 @@
 
 > Do something challenging
 
-🔭 I’m a CS master student in HUST
+🍺 I’m working in TikTok as a backend engineer
 
-🍺 I’m about to work in TikTok as a backend engineer in 2022
-
-⚡ Language used: Java, Golang, Python
+⚡ Language used: Golang, Java
 
 😄 Interest: photographing, long board and games
 
